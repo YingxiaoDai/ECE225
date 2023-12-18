@@ -1,0 +1,466 @@
+﻿Country or Area,Element,Year,Unit,Wheat Value
+Kuwait,Area harvested,2018,ha,3
+Melanesia,Area harvested,2018,ha,3
+New Caledonia,Area harvested,2018,ha,3
+Small Island Developing States,Area harvested,2018,ha,3
+Melanesia,Production,2018,tonnes,4
+New Caledonia,Production,2018,tonnes,4
+Small Island Developing States,Production,2018,tonnes,4
+Qatar,Area harvested,2018,ha,6
+Kuwait,Production,2018,tonnes,9
+Qatar,Production,2018,tonnes,15
+Venezuela (Bolivarian Republic of),Area harvested,2018,ha,49
+Venezuela (Bolivarian Republic of),Production,2018,tonnes,144
+Eswatini,Area harvested,2018,ha,393
+Malawi,Area harvested,2018,ha,592
+Guatemala,Area harvested,2018,ha,594
+Cameroon,Area harvested,2018,ha,706
+Eswatini,Production,2018,tonnes,713
+Malawi,Production,2018,tonnes,729
+Montenegro,Area harvested,2018,ha,769
+Chad,Area harvested,2018,ha,801
+Oman,Area harvested,2018,ha,929
+Cameroon,Production,2018,tonnes,938
+Somalia,Production,2018,tonnes,1033
+Namibia,Area harvested,2018,ha,1149
+Thailand,Area harvested,2018,ha,1221
+Honduras,Production,2018,tonnes,1248
+Guatemala,Production,2018,tonnes,1282
+Thailand,Production,2018,tonnes,1351
+Niger,Area harvested,2018,ha,1623
+Chad,Production,2018,tonnes,1798
+Bhutan,Area harvested,2018,ha,2130
+Honduras,Area harvested,2018,ha,2238
+Malta,Area harvested,2018,ha,2403
+Montenegro,Production,2018,tonnes,2467
+Angola,Area harvested,2018,ha,2579
+Somalia,Area harvested,2018,ha,2586
+Other non-specified areas,Area harvested,2018,ha,2604
+Madagascar,Area harvested,2018,ha,2634
+Angola,Production,2018,tonnes,2820
+Ecuador,Area harvested,2018,ha,3149
+Mauritania,Area harvested,2018,ha,3408
+Oman,Production,2018,tonnes,3579
+Somalia,Yield,2018,hg/ha,3994
+Bhutan,Production,2018,tonnes,4141
+Niger,Production,2018,tonnes,4807
+Democratic Republic of the Congo,Area harvested,2018,ha,4912
+Ecuador,Production,2018,tonnes,5398
+Honduras,Yield,2018,hg/ha,5577
+Namibia,Production,2018,tonnes,6094
+Democratic Republic of the Congo,Production,2018,tonnes,6309
+Madagascar,Production,2018,tonnes,6322
+Other non-specified areas,Production,2018,tonnes,6724
+Colombia,Area harvested,2018,ha,6811
+Mauritania,Production,2018,tonnes,7349
+Libya,Yield,2018,hg/ha,7728
+Nigeria,Yield,2018,hg/ha,7895
+Mali,Area harvested,2018,ha,8240
+Cyprus,Area harvested,2018,ha,8485
+Lesotho,Area harvested,2018,ha,8686
+Middle Africa,Area harvested,2018,ha,8998
+Lesotho,Production,2018,tonnes,9058
+Rwanda,Yield,2018,hg/ha,10106
+Republic of Korea,Area harvested,2018,ha,10279
+Lesotho,Yield,2018,hg/ha,10429
+Turkmenistan,Yield,2018,hg/ha,10678
+Rwanda,Area harvested,2018,ha,10761
+Rwanda,Production,2018,tonnes,10875
+Angola,Yield,2018,hg/ha,10935
+Thailand,Yield,2018,hg/ha,11062
+United Republic of Tanzania,Yield,2018,hg/ha,11092
+Western Africa,Yield,2018,hg/ha,11105
+Colombia,Production,2018,tonnes,11139
+Eritrea,Yield,2018,hg/ha,11306
+Jordan,Yield,2018,hg/ha,11451
+Mozambique,Yield,2018,hg/ha,11612
+Middle Africa,Production,2018,tonnes,11865
+Malta,Production,2018,tonnes,12208
+Kazakhstan,Yield,2018,hg/ha,12281
+Malawi,Yield,2018,hg/ha,12314
+Mongolia,Yield,2018,hg/ha,12727
+Democratic Republic of the Congo,Yield,2018,hg/ha,12844
+Luxembourg,Area harvested,2018,ha,12984
+Middle Africa,Yield,2018,hg/ha,13186
+Cameroon,Yield,2018,hg/ha,13293
+Israel,Yield,2018,hg/ha,13327
+Melanesia,Yield,2018,hg/ha,13864
+New Caledonia,Yield,2018,hg/ha,13864
+Small Island Developing States,Yield,2018,hg/ha,13864
+Burundi,Yield,2018,hg/ha,14092
+Democratic People's Republic of Korea,Yield,2018,hg/ha,14665
+Bolivia (Plurinational State of),Yield,2018,hg/ha,15117
+Uganda,Area harvested,2018,ha,15340
+Uganda,Yield,2018,hg/ha,15383
+Peru,Yield,2018,hg/ha,15405
+Central Asia,Yield,2018,hg/ha,15413
+Palestine,Area harvested,2018,ha,15413
+Burundi,Area harvested,2018,ha,16145
+Yemen,Yield,2018,hg/ha,16349
+Colombia,Yield,2018,hg/ha,16355
+Paraguay,Yield,2018,hg/ha,16800
+Ecuador,Yield,2018,hg/ha,17142
+Tunisia,Yield,2018,hg/ha,17711
+Land Locked Developing Countries,Yield,2018,hg/ha,18007
+South-eastern Asia,Yield,2018,hg/ha,18009
+Jordan,Area harvested,2018,ha,18049
+Cyprus,Production,2018,tonnes,18054
+Myanmar,Yield,2018,hg/ha,18124
+Eswatini,Yield,2018,hg/ha,18146
+Mozambique,Area harvested,2018,ha,18176
+Algeria,Yield,2018,hg/ha,19076
+Australia,Yield,2018,hg/ha,19178
+Bhutan,Yield,2018,hg/ha,19439
+Australia and New Zealand,Yield,2018,hg/ha,19444
+Oceania,Yield,2018,hg/ha,19444
+Syrian Arab Republic,Yield,2018,hg/ha,20000
+Zimbabwe,Yield,2018,hg/ha,20010
+Jordan,Production,2018,tonnes,20668
+Zimbabwe,Area harvested,2018,ha,20734
+Mozambique,Production,2018,tonnes,21105
+Norway,Yield,2018,hg/ha,21107
+Cyprus,Yield,2018,hg/ha,21278
+Guatemala,Yield,2018,hg/ha,21566
+Mauritania,Yield,2018,hg/ha,21566
+Iran (Islamic Republic of),Yield,2018,hg/ha,21642
+Zambia,Area harvested,2018,ha,21675
+Afghanistan,Yield,2018,hg/ha,22100
+Palestine,Yield,2018,hg/ha,22168
+Chad,Yield,2018,hg/ha,22440
+Burundi,Production,2018,tonnes,22751
+Eastern Africa,Yield,2018,hg/ha,23457
+Uganda,Production,2018,tonnes,23597
+Uruguay,Yield,2018,hg/ha,23656
+Democratic People's Republic of Korea,Area harvested,2018,ha,23867
+Madagascar,Yield,2018,hg/ha,24006
+Least Developed Countries,Yield,2018,hg/ha,24044
+Ethiopia,Yield,2018,hg/ha,24236
+Kyrgyzstan,Yield,2018,hg/ha,24268
+Georgia,Yield,2018,hg/ha,24734
+Qatar,Yield,2018,hg/ha,25000
+Portugal,Yield,2018,hg/ha,25069
+Kenya,Yield,2018,hg/ha,25280
+Eritrea,Area harvested,2018,ha,25597
+Morocco,Yield,2018,hg/ha,25752
+Other non-specified areas,Yield,2018,hg/ha,25826
+Brazil,Yield,2018,hg/ha,26238
+Sudan,Yield,2018,hg/ha,26327
+Greece,Yield,2018,hg/ha,26526
+Portugal,Area harvested,2018,ha,27025
+Iraq,Yield,2018,hg/ha,27205
+Russian Federation,Yield,2018,hg/ha,27250
+Western Asia,Yield,2018,hg/ha,27271
+Turkey,Yield,2018,hg/ha,27440
+Belarus,Yield,2018,hg/ha,27502
+Nepal,Yield,2018,hg/ha,27573
+Slovenia,Area harvested,2018,ha,27822
+Finland,Yield,2018,hg/ha,27823
+Armenia,Yield,2018,hg/ha,28240
+Pakistan,Yield,2018,hg/ha,28505
+Africa,Yield,2018,hg/ha,28639
+Net Food Importing Developing Countries,Yield,2018,hg/ha,28669
+Eritrea,Production,2018,tonnes,28939
+Estonia,Yield,2018,hg/ha,29128
+Mali,Production,2018,tonnes,29185
+Azerbaijan,Yield,2018,hg/ha,29383
+Niger,Yield,2018,hg/ha,29615
+Venezuela (Bolivarian Republic of),Yield,2018,hg/ha,29724
+Northern Africa,Yield,2018,hg/ha,29790
+South America,Yield,2018,hg/ha,29839
+Kuwait,Yield,2018,hg/ha,30000
+Tajikistan,Yield,2018,hg/ha,30483
+Southern Asia,Yield,2018,hg/ha,30549
+Republic of Moldova,Yield,2018,hg/ha,31251
+Bangladesh,Yield,2018,hg/ha,31301
+Argentina,Yield,2018,hg/ha,31806
+Americas,Yield,2018,hg/ha,31828
+United States of America,Yield,2018,hg/ha,31999
+Northern America,Yield,2018,hg/ha,32057
+Montenegro,Yield,2018,hg/ha,32088
+Canada,Yield,2018,hg/ha,32152
+Low Income Food Deficit Countries,Yield,2018,hg/ha,32322
+Eastern Europe,Yield,2018,hg/ha,32565
+Lebanon,Yield,2018,hg/ha,33671
+India,Yield,2018,hg/ha,33705
+Asia,Yield,2018,hg/ha,33850
+North Macedonia,Yield,2018,hg/ha,33965
+Palestine,Production,2018,tonnes,34167
+World,Yield,2018,hg/ha,34254
+Latvia,Yield,2018,hg/ha,34314
+Democratic People's Republic of Korea,Production,2018,tonnes,35000
+Mali,Yield,2018,hg/ha,35419
+Japan,Yield,2018,hg/ha,36097
+Republic of Korea,Yield,2018,hg/ha,36558
+Southern Africa,Yield,2018,hg/ha,36681
+Lithuania,Yield,2018,hg/ha,36731
+Albania,Yield,2018,hg/ha,36927
+South Africa,Yield,2018,hg/ha,37111
+Ukraine,Yield,2018,hg/ha,37242
+Republic of Korea,Production,2018,tonnes,37577
+Italy,Yield,2018,hg/ha,38057
+Oman,Yield,2018,hg/ha,38525
+Southern Europe,Yield,2018,hg/ha,38702
+Spain,Yield,2018,hg/ha,38717
+Europe,Yield,2018,hg/ha,39950
+Bosnia and Herzegovina,Yield,2018,hg/ha,40196
+Lebanon,Area harvested,2018,ha,40216
+Poland,Yield,2018,hg/ha,40626
+Uzbekistan,Yield,2018,hg/ha,41260
+New Zealand,Area harvested,2018,ha,41411
+Zimbabwe,Production,2018,tonnes,41488
+Georgia,Area harvested,2018,ha,43300
+Sweden,Yield,2018,hg/ha,43498
+Slovenia,Yield,2018,hg/ha,43815
+Serbia,Yield,2018,hg/ha,45742
+Austria,Yield,2018,hg/ha,46846
+Slovakia,Yield,2018,hg/ha,47795
+Romania,Yield,2018,hg/ha,48022
+Bulgaria,Yield,2018,hg/ha,48122
+Malta,Yield,2018,hg/ha,50796
+Hungary,Yield,2018,hg/ha,50955
+Zambia,Yield,2018,hg/ha,52808
+Israel,Area harvested,2018,ha,52900
+Namibia,Yield,2018,hg/ha,53061
+Eastern Asia,Yield,2018,hg/ha,53393
+Croatia,Yield,2018,hg/ha,53765
+Czechia,Yield,2018,hg/ha,53896
+Central America,Yield,2018,hg/ha,54136
+European Union,Yield,2018,hg/ha,54146
+China,Yield,2018,hg/ha,54163
+"China, mainland",Yield,2018,hg/ha,54166
+Mexico,Yield,2018,hg/ha,54373
+Switzerland,Yield,2018,hg/ha,56419
+Northern Europe,Yield,2018,hg/ha,56569
+Ireland,Area harvested,2018,ha,58000
+Norway,Area harvested,2018,ha,58512
+Luxembourg,Yield,2018,hg/ha,60389
+Chile,Yield,2018,hg/ha,62137
+Denmark,Yield,2018,hg/ha,62348
+Yemen,Area harvested,2018,ha,64530
+Albania,Area harvested,2018,ha,65072
+Saudi Arabia,Yield,2018,hg/ha,65334
+Nigeria,Production,2018,tonnes,65433
+Armenia,Area harvested,2018,ha,66378
+Germany,Yield,2018,hg/ha,66737
+Egypt,Yield,2018,hg/ha,66895
+Western Europe,Yield,2018,hg/ha,67617
+Portugal,Production,2018,tonnes,67749
+France,Yield,2018,hg/ha,68427
+Israel,Production,2018,tonnes,70500
+North Macedonia,Area harvested,2018,ha,70987
+Bosnia and Herzegovina,Area harvested,2018,ha,73591
+Myanmar,Area harvested,2018,ha,74142
+South-eastern Asia,Area harvested,2018,ha,75363
+United Kingdom of Great Britain and Northern Ireland,Yield,2018,hg/ha,77546
+Luxembourg,Production,2018,tonnes,78409
+Nigeria,Area harvested,2018,ha,82882
+Belgium,Yield,2018,hg/ha,84434
+Ireland,Yield,2018,hg/ha,87379
+Switzerland,Area harvested,2018,ha,88135
+Netherlands,Yield,2018,hg/ha,88212
+New Zealand,Yield,2018,hg/ha,89596
+Saudi Arabia,Area harvested,2018,ha,89756
+United Republic of Tanzania,Area harvested,2018,ha,94549
+Western Africa,Area harvested,2018,ha,96153
+United Republic of Tanzania,Production,2018,tonnes,104870
+Yemen,Production,2018,tonnes,105503
+Western Africa,Production,2018,tonnes,106773
+Georgia,Production,2018,tonnes,107100
+Netherlands,Area harvested,2018,ha,111697
+Zambia,Production,2018,tonnes,114463
+Slovenia,Production,2018,tonnes,121901
+Norway,Production,2018,tonnes,123500
+Peru,Area harvested,2018,ha,126638
+Kenya,Area harvested,2018,ha,133147
+Myanmar,Production,2018,tonnes,134372
+Lebanon,Production,2018,tonnes,135411
+South-eastern Asia,Production,2018,tonnes,135722
+Croatia,Area harvested,2018,ha,138456
+Libya,Production,2018,tonnes,138770
+Estonia,Area harvested,2018,ha,154579
+Finland,Area harvested,2018,ha,177800
+Libya,Area harvested,2018,ha,179558
+Uruguay,Area harvested,2018,ha,186000
+Armenia,Production,2018,tonnes,187453
+Peru,Production,2018,tonnes,195088
+Belgium,Area harvested,2018,ha,195686
+Bolivia (Plurinational State of),Area harvested,2018,ha,199569
+Japan,Area harvested,2018,ha,211900
+Sudan,Area harvested,2018,ha,226000
+Chile,Area harvested,2018,ha,236415
+Albania,Production,2018,tonnes,240294
+North Macedonia,Production,2018,tonnes,241106
+Kyrgyzstan,Area harvested,2018,ha,253804
+Tajikistan,Area harvested,2018,ha,255549
+Austria,Area harvested,2018,ha,292654
+Bosnia and Herzegovina,Production,2018,tonnes,295810
+Bolivia (Plurinational State of),Production,2018,tonnes,301689
+Kenya,Production,2018,tonnes,336600
+Mongolia,Area harvested,2018,ha,342666
+Bangladesh,Area harvested,2018,ha,351228
+New Zealand,Production,2018,tonnes,371027
+Republic of Moldova,Area harvested,2018,ha,372076
+Sweden,Area harvested,2018,ha,372500
+Slovakia,Area harvested,2018,ha,403372
+Greece,Area harvested,2018,ha,404490
+Latvia,Area harvested,2018,ha,417200
+Denmark,Area harvested,2018,ha,425806
+Paraguay,Area harvested,2018,ha,430000
+Mongolia,Production,2018,tonnes,436115
+Uruguay,Production,2018,tonnes,440000
+Estonia,Production,2018,tonnes,450265
+Finland,Production,2018,tonnes,494700
+Switzerland,Production,2018,tonnes,497250
+South Africa,Area harvested,2018,ha,503350
+Ireland,Production,2018,tonnes,506800
+Southern Africa,Area harvested,2018,ha,513577
+Mexico,Area harvested,2018,ha,541345
+Central America,Area harvested,2018,ha,544177
+Saudi Arabia,Production,2018,tonnes,586413
+Sudan,Production,2018,tonnes,595000
+Syrian Arab Republic,Area harvested,2018,ha,600000
+Kyrgyzstan,Production,2018,tonnes,615926
+Serbia,Area harvested,2018,ha,643083
+Belarus,Area harvested,2018,ha,659861
+Azerbaijan,Area harvested,2018,ha,677834
+Nepal,Area harvested,2018,ha,706843
+Paraguay,Production,2018,tonnes,722400
+Croatia,Production,2018,tonnes,744405
+Japan,Production,2018,tonnes,764900
+Lithuania,Area harvested,2018,ha,772885
+Tajikistan,Production,2018,tonnes,778986
+Czechia,Area harvested,2018,ha,819690
+Tunisia,Area harvested,2018,ha,846939
+Turkmenistan,Area harvested,2018,ha,936488
+Netherlands,Production,2018,tonnes,985297
+Turkmenistan,Production,2018,tonnes,1000000
+Hungary,Area harvested,2018,ha,1029523
+Greece,Production,2018,tonnes,1072940
+Bangladesh,Production,2018,tonnes,1099373
+Republic of Moldova,Production,2018,tonnes,1162778
+Iraq,Area harvested,2018,ha,1180443
+Syrian Arab Republic,Production,2018,tonnes,1200000
+Bulgaria,Area harvested,2018,ha,1212012
+Uzbekistan,Area harvested,2018,ha,1311376
+Egypt,Area harvested,2018,ha,1315490
+Austria,Production,2018,tonnes,1370960
+Latvia,Production,2018,tonnes,1431600
+Chile,Production,2018,tonnes,1469003
+Tunisia,Production,2018,tonnes,1500000
+Sweden,Production,2018,tonnes,1620300
+Afghanistan,Area harvested,2018,ha,1635000
+Belgium,Production,2018,tonnes,1652249
+United Kingdom of Great Britain and Northern Ireland,Area harvested,2018,ha,1748000
+Ethiopia,Area harvested,2018,ha,1748972
+Belarus,Production,2018,tonnes,1814765
+Italy,Area harvested,2018,ha,1821725
+South Africa,Production,2018,tonnes,1868000
+Southern Africa,Production,2018,tonnes,1883865
+Slovakia,Production,2018,tonnes,1927926
+Nepal,Production,2018,tonnes,1949001
+Azerbaijan,Production,2018,tonnes,1991683
+Spain,Area harvested,2018,ha,2063683
+Brazil,Area harvested,2018,ha,2065254
+Algeria,Area harvested,2018,ha,2087003
+Eastern Africa,Area harvested,2018,ha,2110907
+Romania,Area harvested,2018,ha,2112307
+Poland,Area harvested,2018,ha,2417227
+Denmark,Production,2018,tonnes,2654819
+Lithuania,Production,2018,tonnes,2838899
+Morocco,Area harvested,2018,ha,2842748
+Serbia,Production,2018,tonnes,2941601
+Mexico,Production,2018,tonnes,2943445
+Central America,Production,2018,tonnes,2945975
+Germany,Area harvested,2018,ha,3036300
+Iraq,Production,2018,tonnes,3211382
+Afghanistan,Production,2018,tonnes,3613300
+Algeria,Production,2018,tonnes,3981219
+Northern Europe,Area harvested,2018,ha,4185282
+Ethiopia,Production,2018,tonnes,4238836
+Czechia,Production,2018,tonnes,4417841
+Eastern Africa,Production,2018,tonnes,4951608
+Least Developed Countries,Area harvested,2018,ha,5047149
+France,Area harvested,2018,ha,5231615
+Hungary,Production,2018,tonnes,5245890
+Southern Europe,Area harvested,2018,ha,5339106
+Uzbekistan,Production,2018,tonnes,5410760
+Brazil,Production,2018,tonnes,5418711
+Argentina,Area harvested,2018,ha,5822173
+Bulgaria,Production,2018,tonnes,5832449
+Ukraine,Area harvested,2018,ha,6619600
+Iran (Islamic Republic of),Area harvested,2018,ha,6700000
+Italy,Production,2018,tonnes,6932943
+Turkey,Area harvested,2018,ha,7288622
+Morocco,Production,2018,tonnes,7320620
+Northern Africa,Area harvested,2018,ha,7497738
+Spain,Production,2018,tonnes,7989906
+Pakistan,Area harvested,2018,ha,8797227
+Egypt,Production,2018,tonnes,8800000
+Western Europe,Area harvested,2018,ha,8969071
+South America,Area harvested,2018,ha,9076057
+Poland,Production,2018,tonnes,9820315
+Canada,Area harvested,2018,ha,9881000
+Romania,Production,2018,tonnes,10143671
+Western Asia,Area harvested,2018,ha,10146864
+Africa,Area harvested,2018,ha,10227373
+Australia,Area harvested,2018,ha,10919180
+Australia and New Zealand,Area harvested,2018,ha,10960591
+Oceania,Area harvested,2018,ha,10960594
+Kazakhstan,Area harvested,2018,ha,11354380
+Least Developed Countries,Production,2018,tonnes,12135536
+United Kingdom of Great Britain and Northern Ireland,Production,2018,tonnes,13555000
+Kazakhstan,Production,2018,tonnes,13944108
+Central Asia,Area harvested,2018,ha,14111597
+Iran (Islamic Republic of),Production,2018,tonnes,14500000
+United States of America,Area harvested,2018,ha,16027750
+Argentina,Production,2018,tonnes,18518045
+Net Food Importing Developing Countries,Area harvested,2018,ha,19473882
+Turkey,Production,2018,tonnes,20000000
+Germany,Production,2018,tonnes,20263500
+Land Locked Developing Countries,Area harvested,2018,ha,20469042
+Southern Europe,Production,2018,tonnes,20663330
+Australia,Production,2018,tonnes,20941134
+Australia and New Zealand,Production,2018,tonnes,21312161
+Oceania,Production,2018,tonnes,21312165
+Central Asia,Production,2018,tonnes,21749780
+Northern Africa,Production,2018,tonnes,22335609
+Northern Europe,Production,2018,tonnes,23675883
+"China, mainland",Area harvested,2018,ha,24266190
+China,Area harvested,2018,ha,24268794
+Ukraine,Production,2018,tonnes,24652840
+Eastern Asia,Area harvested,2018,ha,24857505
+Pakistan,Production,2018,tonnes,25076149
+European Union,Area harvested,2018,ha,25495927
+Northern America,Area harvested,2018,ha,25908750
+Russian Federation,Area harvested,2018,ha,26472051
+South America,Production,2018,tonnes,27081618
+Western Asia,Production,2018,tonnes,27671936
+Africa,Production,2018,tonnes,29289721
+India,Area harvested,2018,ha,29580000
+Canada,Production,2018,tonnes,31769200
+Americas,Area harvested,2018,ha,35528985
+France,Production,2018,tonnes,35798234
+Land Locked Developing Countries,Production,2018,tonnes,36857747
+Low Income Food Deficit Countries,Area harvested,2018,ha,37125805
+Eastern Europe,Area harvested,2018,ha,42117719
+Southern Asia,Area harvested,2018,ha,47772428
+United States of America,Production,2018,tonnes,51286540
+Net Food Importing Developing Countries,Production,2018,tonnes,55828976
+Europe,Area harvested,2018,ha,60611179
+Western Europe,Production,2018,tonnes,60645899
+Russian Federation,Production,2018,tonnes,72136149
+Northern America,Production,2018,tonnes,83055740
+Asia,Area harvested,2018,ha,96963757
+India,Production,2018,tonnes,99700000
+Americas,Production,2018,tonnes,113083333
+Low Income Food Deficit Countries,Production,2018,tonnes,119999439
+"China, mainland",Production,2018,tonnes,131440500
+China,Production,2018,tonnes,131447224
+Eastern Asia,Production,2018,tonnes,132720816
+Eastern Europe,Production,2018,tonnes,137154624
+European Union,Production,2018,tonnes,138049231
+Southern Asia,Production,2018,tonnes,145941964
+World,Area harvested,2018,ha,214291888
+Europe,Production,2018,tonnes,242139737
+Asia,Production,2018,tonnes,328220218
+World,Production,2018,tonnes,734045174
